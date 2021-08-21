@@ -1,0 +1,12 @@
+project.xcworkspace/
+xcuserdata/
+build/
+
+# CocoaPods
+Pods/
+
+# R.swift
+R.generated.swift
+date.txt
+s
+.DS_Store
